@@ -40,12 +40,12 @@ namespace YTSharp.Business.Concrete
             if (match2.Success)
             {
                 video.ChannelName = match2.Groups["author"].Value;
-                video.ViewCount = int.Parse(match2.Groups["view"].Value);
+                video.ViewCount = long.Parse(match2.Groups["view"].Value);
             }
 
             if (match3.Success)
             {
-                video.LikeCount = int.Parse(match3.Groups["like"].Value);
+                video.LikeCount = long.Parse(match3.Groups["like"].Value);
             }
 
             return video;
