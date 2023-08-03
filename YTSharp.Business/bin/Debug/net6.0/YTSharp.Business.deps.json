@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "YTSharp.Business/1.0.0": {
+        "dependencies": {
+          "YTSharp.Data": "1.0.0"
+        },
+        "runtime": {
+          "YTSharp.Business.dll": {}
+        }
+      },
+      "YTSharp.Data/1.0.0": {
+        "runtime": {
+          "YTSharp.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YTSharp.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YTSharp.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

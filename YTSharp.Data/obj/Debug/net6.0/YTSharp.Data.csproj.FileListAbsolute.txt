@@ -1,0 +1,12 @@
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Data\bin\Debug\net6.0\YTSharp.Data.deps.json
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Data\bin\Debug\net6.0\YTSharp.Data.dll
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Data\bin\Debug\net6.0\YTSharp.Data.pdb
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Data\obj\Debug\net6.0\YTSharp.Data.csproj.AssemblyReference.cache
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Data\obj\Debug\net6.0\YTSharp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Data\obj\Debug\net6.0\YTSharp.Data.AssemblyInfoInputs.cache
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Data\obj\Debug\net6.0\YTSharp.Data.AssemblyInfo.cs
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Data\obj\Debug\net6.0\YTSharp.Data.csproj.CoreCompileInputs.cache
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Data\obj\Debug\net6.0\YTSharp.Data.dll
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Data\obj\Debug\net6.0\refint\YTSharp.Data.dll
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Data\obj\Debug\net6.0\YTSharp.Data.pdb
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Data\obj\Debug\net6.0\ref\YTSharp.Data.dll

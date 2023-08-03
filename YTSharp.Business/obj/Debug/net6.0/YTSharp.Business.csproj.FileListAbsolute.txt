@@ -1,0 +1,15 @@
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Business\bin\Debug\net6.0\YTSharp.Business.deps.json
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Business\bin\Debug\net6.0\YTSharp.Business.dll
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Business\bin\Debug\net6.0\YTSharp.Business.pdb
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Business\bin\Debug\net6.0\YTSharp.Data.dll
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Business\bin\Debug\net6.0\YTSharp.Data.pdb
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Business\obj\Debug\net6.0\YTSharp.Business.csproj.AssemblyReference.cache
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Business\obj\Debug\net6.0\YTSharp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Business\obj\Debug\net6.0\YTSharp.Business.AssemblyInfoInputs.cache
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Business\obj\Debug\net6.0\YTSharp.Business.AssemblyInfo.cs
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Business\obj\Debug\net6.0\YTSharp.Business.csproj.CoreCompileInputs.cache
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Business\obj\Debug\net6.0\YTSharp.Business.csproj.CopyComplete
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Business\obj\Debug\net6.0\YTSharp.Business.dll
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Business\obj\Debug\net6.0\refint\YTSharp.Business.dll
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Business\obj\Debug\net6.0\YTSharp.Business.pdb
+C:\Users\sirac\Source\Repos\YTSharp\YTSharp.Business\obj\Debug\net6.0\ref\YTSharp.Business.dll
