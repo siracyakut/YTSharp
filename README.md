@@ -1,6 +1,6 @@
 # YTSharp
 ### Introduction
-YTSharp is an open-source .NET Core Web API project for searching youtube videos and fetching their information.
+YTSharp is an open-source ASP.NET Core RESTful Web API project for searching youtube videos and fetching their information.
 ### Project Support Features
 The following information can be fetched from a single YouTube video:
 * Video Id
